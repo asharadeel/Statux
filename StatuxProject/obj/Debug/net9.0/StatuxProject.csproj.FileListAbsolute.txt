@@ -1,0 +1,15 @@
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\StatuxProject.exe
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\StatuxProject.deps.json
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\StatuxProject.runtimeconfig.json
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\StatuxProject.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\StatuxProject.pdb
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.AssemblyInfoInputs.cache
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.AssemblyInfo.cs
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.csproj.CoreCompileInputs.cache
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.sourcelink.json
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\refint\StatuxProject.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.pdb
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.genruntimeconfig.cache
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\ref\StatuxProject.dll
