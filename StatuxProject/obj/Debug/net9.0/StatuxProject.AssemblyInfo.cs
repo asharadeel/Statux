@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StatuxProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac6c6f3e21ac201380b0352bc7ee5aa52883e321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942664891c8ab894731fdcb4f4988e324d349729")]
 [assembly: System.Reflection.AssemblyProductAttribute("StatuxProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StatuxProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,8 @@ C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\refint\Sta
 C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.pdb
 C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.genruntimeconfig.cache
 C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\ref\StatuxProject.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\System.Management.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxProject.csproj.AssemblyReference.cache
+C:\Users\ashar\Desktop\Projects\Statux\StatuxProject\obj\Debug\net9.0\StatuxPr.1EBEB0EC.Up2Date
