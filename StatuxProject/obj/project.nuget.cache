@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sxAm7orY3xg=",
+  "dgSpecHash": "Njnj4E1Xtj4=",
   "success": true,
   "projectFilePath": "C:\\Users\\ashar\\Desktop\\Projects\\Statux\\StatuxProject\\StatuxProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ashar\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
     "C:\\Users\\ashar\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\ashar\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
-    "C:\\Users\\ashar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0\\microsoft.netcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
-    "C:\\Users\\ashar\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0.nupkg.sha512",
-    "C:\\Users\\ashar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0.nupkg.sha512"
+    "C:\\Users\\ashar\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
